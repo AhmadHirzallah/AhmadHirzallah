@@ -1,63 +1,101 @@
-<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/ahmad-hirzallah-7721412a5">Ahmad Hirzallah</a></h2>
-<p>I'm currently a student at <strong>a CS student at Hashimite University</a></strong>  <strong>and 42 Amman School student</a></strong>  <strong>and Programming Advices School student.</a></strong> I am working on some side projects, learning a couple new things.</p>
+<!--
+Try to create a banner and to add it.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AhmadHirzallah/my-repo/main/banner.png" alt="Banner" />
+</p>
+
+-->
+
+<p>I'm currently a <strong>CS student at <a href="https://www.hu.edu.jo/">Hashimite University</a></strong>, <strong>a 42 Amman School student</strong>, and a <strong>Programming Advices School student</strong>. I am working on some side projects and learning new things.</p>
+
 <p>
   <a href="https://www.linkedin.com/in/ahmad-hirzallah-7721412a5">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a> 
   <a href="https://www.facebook.com/Ahmadhirzallah0">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
   </a> 
+  <a href="https://t.me/fcorvaro">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a>
+  <a href="https://42born2code.slack.com/team/U050L8XAFLK">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge">
+  </a>
 </p>
+
+ 
 <p>💧 Remember to drink water 💧</p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>🔭 I’m About finish Libft at 42.</li>
-  <li>🧐 Learning about <strong>Linux</strong>, <strong>C</strong>, and <strong>Shell</strong>.</li>
+  <li>🔭 I’m about to finish Libft at 42.</li>
+ <li>🧐 Learning about <strong>Linux</strong>, <strong>C</strong>, and <strong>Shell scripting</strong>.</li>
+<li>💬 Feel free to reach out to me about <strong>C, Shell, React, JavaScript, art, or any tech-related topics</strong>.</li>
+ 
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AhmadHirzallah?tab=repositories">Github</a>.</li>
-  <li>💬 Ping me about <strong>C, Shell, React, JS, art, and any tech stuff</strong>.</li>
   <li>📙 Check out my <a href="#">resume (coming)</a>.</li>
 </ul>
 
 
 
 ```javascript
+
 const Ahmad = {
-  code: ["C, C++, Javascript", "Typescript", "Python", "C#", "Java"],
-    askMeAbout: ["Web Development", "tech", "app dev", "Sport"],
-    technologies: {
-      frontEnd: {
-            technologies: ["C", "C++", "Shell", "HTML", "CSS", "SASS", "JS", "React", "Typescript", "Redux", "Angular"],
-        },
-        misc: ["styled-components", "tailwind", "GIT"]
+  code: ["C", "C++", "JavaScript", "TypeScript", "Python", "C#", "Java"],
+  askMeAbout: ["Web Development", "Tech", "App Development", "Sports"],
+  technologies: {
+    frontEnd: {
+      technologies: ["HTML", "CSS", "SASS", "JavaScript", "React", "TypeScript", "Redux", "Angular"],
     },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentFocus: "42 Common Core",
+    backEnd: {
+      technologies: ["Node.js", "Express", "C", "C++", "Shell"],
+    },
+    misc: ["styled-components", "Tailwind", "Git", "Linux"],
+  },
+  architecture: ["Progressive Web Applications", "Single Page Applications"],
+  currentFocus: "42 Common Core",
 };
+
+
 ```
-<br>
+<br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,md,bash,vim,vscode,html,css,react,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,md,bash,python,linux,vim,vscode,html,css,react,github,git)](https://skillicons.dev)
 
-<br>
-<br>
+<br><br>
 
-<details open>
-<summary style="font-size: 2em;"> <b>42 - Piscine</b></summary>
-  
-### Projects
+<h2 align="center">🌟 My 42 Journey 🌟</h2>
 
-- [S00](https://github.com/MarkosComK/42Piscine/tree/main/S00) - <strong>✅ 100/100</strong>
-- [S01](https://github.com/MarkosComK/42Piscine/tree/main/S01) - <strong>✅ 70/100</strong>
-- [C00](https://github.com/MarkosComK/42Piscine/tree/main/C00) - <strong>✅ 92/100</strong>
-- [C01](https://github.com/MarkosComK/42Piscine/tree/main/C01) - <strong>✅ 100/100</strong>
 
+
+<details align="center">
+  <summary><strong>Overall 42 Stats</strong></summary>
+  <img src="https://badge.mediaplus.ma/greenbinary/Ahirzall?1337Badge=off&UM6P=off" alt="Ahirzall's 42 stats" />
 </details>
 
-<details open>
-<summary style="font-size: 2em;"> <b>42 - Common-core</b></summary>
-  
-### Projects
 
-- [Libft](https://github.com/MarkosComK/42-Libft) - A C library - <strong>✅ 125/100</strong>
-- [Ft_printf](https://github.com/MarkosComK/42-printf) - Recoding the printf function <strong>✅ 125/100</strong>
-- [Get_next_line](https://github.com/MarkosComK/42-Get_next_line) - Reading content line by line from a file, stdineven a network connection <strong>✅ 125/100</strong>
+
+<details align="center">
+  <summary><strong>42 Piscine Projects</strong></summary>
+  <ul>
+    <li><a href="https://github.com/MarkosComK/42Piscine/tree/main/S00"><strong>S00</strong></a> - ✅ 100/100</li>
+    <li><a href="https://github.com/MarkosComK/42Piscine/tree/main/S01"><strong>S01</strong></a> - ✅ 70/100</li>
+    <li><a href="https://github.com/MarkosComK/42Piscine/tree/main/C00"><strong>C00</strong></a> - ✅ 92/100</li>
+    <li><a href="https://github.com/MarkosComK/42Piscine/tree/main/C01"><strong>C01</strong></a> - ✅ 100/100</li>
+  </ul>
+</details>
+
+<details align="center">
+  <summary><strong>42 Common Core Projects</strong></summary>
+  <ul>
+    <li><a href="https://github.com/MarkosComK/42-Libft"><strong>Libft</strong></a> - A C library - ✅ 125/100</li>
+    <li><a href="https://github.com/MarkosComK/42-printf"><strong>Ft_printf</strong></a> - Recoding the printf function - ✅ 125/100</li>
+    <li><a href="https://github.com/MarkosComK/42-Get_next_line"><strong>Get_next_line</strong></a> - Reading content line by line from a file or network connection - ✅ 125/100</li>
+  </ul>
+</details>
+
+
+## 📫 How to reach me
+- LinkedIn: [Ahmad Hirzallah](https://www.linkedin.com/in/ahmad-hirzallah-7721412a5)
+- Facebook: [Ahmad Hirzallah](https://www.facebook.com/Ahmadhirzallah0)
+- Telegram: [@fcorvaro](https://t.me/fcorvaro)
+- Email: ahmad@example.com
