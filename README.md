@@ -27,10 +27,10 @@ Try to create a banner and to add it.
 <p>💧 Remember to drink water 💧</p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>🔭 I’m currently studying Common Core at 42 Porto, after successfully completing the Piscine.</li>
+ <li>🔭 🌟 I’m currently a student in the Common Core program at 42 Amman, after successfully completing the rigorous Piscine bootcamp.</li>
  <li>🧐 Learning about <strong>Linux</strong>, <strong>C</strong>, and <strong>Shell scripting</strong>.</li>
-<li>💬 Feel free to reach out to me about <strong>C, Shell, React, JavaScript, art, or any tech-related topics</strong>.</li>
-<li>🌟 My other areas of focus are `Cybersecurity`, `Project Management` and `Data Analysis`. </li>
+ <li>💬 Feel free to reach out to me about <strong>C, Shell, React, JavaScript, art, or any tech-related topics</strong>.</li>
+ <li>🌟 My other areas of focus are `Cybersecurity`, `AI` and `Gaming`. </li>
  
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AhmadHirzallah?tab=repositories">Github</a>.</li>
   <li> Check out my <a href="#">resume (coming)</a>.</li>
