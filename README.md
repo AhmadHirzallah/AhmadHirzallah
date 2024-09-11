@@ -75,20 +75,11 @@ const Ahmad = {
 
 
 
-<details align="center">
-  <summary><strong>42 Piscine Projects</strong></summary>
-  <ul>
-    <li><a href="https://github.com/MarkosComK/42Piscine/tree/main/S00"><strong>S00</strong></a> - ✅ 100/100</li>
-    <li><a href="https://github.com/MarkosComK/42Piscine/tree/main/S01"><strong>S01</strong></a> - ✅ 70/100</li>
-    <li><a href="https://github.com/MarkosComK/42Piscine/tree/main/C00"><strong>C00</strong></a> - ✅ 92/100</li>
-    <li><a href="https://github.com/MarkosComK/42Piscine/tree/main/C01"><strong>C01</strong></a> - ✅ 100/100</li>
-  </ul>
-</details>
 
 <details align="center">
   <summary><strong>42 Common Core Projects</strong></summary>
   <ul>
-    <li><a href="https://github.com/MarkosComK/42-Libft"><strong>Libft</strong></a> - A C library - ✅ 125/100</li>
+    <li><a href="https://github.com/AhmadHirzallah/Libft"><strong>Libft</strong></a> - A C library - ✅ 125/100</li>
     <li><a href="https://github.com/MarkosComK/42-printf"><strong>Ft_printf</strong></a> - Recoding the printf function - ✅ 125/100</li>
     <li><a href="https://github.com/MarkosComK/42-Get_next_line"><strong>Get_next_line</strong></a> - Reading content line by line from a file or network connection - ✅ 125/100</li>
   </ul>
