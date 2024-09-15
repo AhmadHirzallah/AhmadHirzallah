@@ -18,9 +18,7 @@ I'm currently a **CS student at [Hashimite University](https://www.hu.edu.jo/)**
 - Follow my complete journey through the **42-school Core Curriculum**, where I work on projects related to low-level programming, algorithms, and more.
 
 
-<p align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/Ahirzall?1337Badge=off&UM6P=off" alt="Ahirzall's 42 stats" />
-</p>
+[![ahirzall's 42 stats](https://badge.mediaplus.ma/darkblue/ahirzall?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/ahmad-hirzallah-7721412a5)
