@@ -1,93 +1,36 @@
-<!--
-Try to create a banner and to add it.
 <p align="center">
   <img src="https://raw.githubusercontent.com/AhmadHirzallah/my-repo/main/banner.png" alt="Banner" />
 </p>
 
--->
+## 👨‍💻 About Me
+I'm currently a **CS student at [Hashimite University](https://www.hu.edu.jo/)**, a **[42 Amman School](https://42.fr/en/homepage/)** student, and a **[Programming Advices Training Program](https://programmingadvices.com/)** student. I’m working on multiple side projects, learning new technologies, and aiming to grow as a software engineer.
 
-<p>I'm currently a <strong>CS student at <a href="https://www.hu.edu.jo/">Hashimite University</a></strong>, <strong>a 42 Amman School student</strong>, and a <strong>Programming Advices School student</strong>. I am working on some side projects and learning new things.</p>
+- 🔭 Currently focused on **Linux**, **Shell scripting**, **C**, **C++**, **OOP**, **Problem-solving**.
+- 💡 Areas of interest: **Cybersecurity**, **AI**.
+- 👨‍💻 Check out my repositories on [GitHub](https://github.com/AhmadHirzallah?tab=repositories).
 
-<p>
-  <a href="https://www.linkedin.com/in/ahmad-hirzallah-7721412a5">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a> 
-  <a href="https://www.facebook.com/Ahmadhirzallah0">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
-  </a> 
-  <a href="https://t.me/fcorvaro">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
-  </a>
-  <a href="https://42born2code.slack.com/team/U050L8XAFLK">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge">
-  </a>
+## 📚 My Learning Programs
+
+#### 🎯 [Programming Advices Training Program](https://github.com/AhmadHirzallah/Programming-Advices-Training-Program)
+- Explore my learning experience in the **Programming Advices Training Program**, covering problem-solving, OOP, functional programming, and more.
+
+#### 🌟 [42-school Core Curriculum](https://github.com/AhmadHirzallah/42-school-Core-Curriculum)
+- Follow my complete journey through the **42-school Core Curriculum**, where I work on projects related to low-level programming, algorithms, and more.
+
+
+<p align="center">
+  <img src="https://badge.mediaplus.ma/greenbinary/Ahirzall?1337Badge=off&UM6P=off" alt="Ahirzall's 42 stats" />
 </p>
 
- 
-<p>💧 Remember to drink water 💧</p>
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
- <li>🔭 🌟 I’m currently a student in the Common Core program at 42 Amman, after successfully completing the rigorous Piscine bootcamp.</li>
- <li>🧐 Learning about <strong>Linux</strong>, <strong>C</strong>, and <strong>Shell scripting</strong>.</li>
- <li>💬 Feel free to reach out to me about <strong>C, Shell, React, JavaScript, art, or any tech-related topics</strong>.</li>
- <li>🌟 My other areas of focus are `Cybersecurity`, `AI` and `Gaming`. </li>
- 
-  <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AhmadHirzallah?tab=repositories">Github</a>.</li>
-  <li> Check out my <a href="#">resume (coming)</a>.</li>
-</ul>
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/ahmad-hirzallah-7721412a5)
+- [Facebook](https://www.facebook.com/Ahmadhirzallah0)
+- [Telegram](https://t.me/AhmadHirzallah)
+- Email:  ahmad.hirzallah.pro@gmail.com
 
-
-
-```javascript
-
-const Ahmad = {
-  code: ["C", "C++", "JavaScript", "TypeScript", "Python", "C#", "Java"],
-  askMeAbout: ["Web Development", "Tech", "App Development", "Sports"],
-  technologies: {
-    frontEnd: {
-      technologies: ["HTML", "CSS", "SASS", "JavaScript", "React", "TypeScript", "Redux", "Angular"],
-    },
-    backEnd: {
-      technologies: ["Node.js", "Express", "C", "C++", "Shell"],
-    },
-    misc: ["styled-components", "Tailwind", "Git", "Linux"],
-  },
-  architecture: ["Progressive Web Applications", "Single Page Applications"],
-  currentFocus: "42 Common Core",
-};
-
-
-```
-<br><br>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,md,bash,python,linux,vim,vscode,html,css,react,github,git)](https://skillicons.dev)
-
-<br><br>
-
-<h2 align="center">🌟 My 42 Journey 🌟</h2>
-
-
-
-<details align="center">
-  <summary><strong>Overall 42 Stats</strong></summary>
-  <img src="https://badge.mediaplus.ma/greenbinary/Ahirzall?1337Badge=off&UM6P=off" alt="Ahirzall's 42 stats" />
-</details>
-
-
-
-
-<details align="center">
-  <summary><strong>42 Common Core Projects</strong></summary>
-  <ul>
-    <li><a href="https://github.com/AhmadHirzallah/Libft"><strong>Libft</strong></a> - A C library - ✅ 125/100</li>
-    <li><a href="https://github.com/MarkosComK/42-printf"><strong>Ft_printf</strong></a> - Recoding the printf function - ✅ 125/100</li>
-    <li><a href="https://github.com/MarkosComK/42-Get_next_line"><strong>Get_next_line</strong></a> - Reading content line by line from a file or network connection - ✅ 125/100</li>
-  </ul>
-</details>
-
-
-## 📫 How to reach me
-- LinkedIn: [Ahmad Hirzallah](https://www.linkedin.com/in/ahmad-hirzallah-7721412a5)
-- Facebook: [Ahmad Hirzallah](https://www.facebook.com/Ahmadhirzallah0)
-- Telegram: [@fcorvaro](https://t.me/fcorvaro)
-- Email: ahmad@example.com
+### 🛠️ Technologies & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,md,bash,python,linux,vim,vscode,html,css,react,github,git" />
+  </a>
+</p>
